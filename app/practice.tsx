@@ -9,15 +9,15 @@ interface Practice {
 }
 
 const practiceData: Practice[] = [
-    { id: '1', title: 'Practice 1: Training of the population in the field of defence against natural and man-made emergencies', htmlFile: require('./practice/Class 1.html') },
-    { id: '2', title: 'Practice 2: Defeat by poisonous substances. Ways of penetration into the body, signs, first aid, care. Emergency care in acute poisoning', htmlFile: require('./practice/Practical work No.html') },
-    { id: '3', title: 'Practice 3: Familiarisation with portable dosimeters and training in their use', htmlFile: require('./practice/пз2english.html') },
-    { id: '4', title: 'Practice 4: Training the population in the field of protection from natural and man-made emergencies', htmlFile: require('./practice/Practical_1.html') },
-    { id: '5', title: 'Practice 5: Ensuring safety and the procedure for citizens to follow in the event of fires in buildings', htmlFile: require('./practice/Practical_2.html') },
-    { id: '6', title: 'Practice 6: Ensuring the safety of passenger transportation services on public transport and the procedure for passengers to follow in the event of dangerous incidents', htmlFile: require('./practice/Practical_3.html') },
-    { id: '7', title: 'Practice 7: Conditions requiring first aid. Respiratory and circulatory arrest, measures to revive the body', htmlFile: require('./practice/Practical_4.html') },
-    { id: '8', title: 'Practice 8: First aid for electric shock, lightning, flame burns, frostbite, drowning', htmlFile: require('./practice/Practical_5.html') },
-    { id: '9', title: 'Practice 9: First aid for wounds, external bleeding, bone fractures', htmlFile: require('./practice/Practical_6.html') },
+    { id: '1', title: 'Practice 1: Training of the population in the field of defence against natural and man-made emergencies', htmlFile: require('@/assets/practice/Class 1.html') },
+    { id: '2', title: 'Practice 2: Defeat by poisonous substances. Ways of penetration into the body, signs, first aid, care. Emergency care in acute poisoning', htmlFile: require('@/assets/practice/Practical work No.html') },
+    { id: '3', title: 'Practice 3: Familiarisation with portable dosimeters and training in their use', htmlFile: require('@/assets/practice/пз2english.html') },
+    { id: '4', title: 'Practice 4: Training the population in the field of protection from natural and man-made emergencies', htmlFile: require('@/assets/practice/Practical_1.html') },
+    { id: '5', title: 'Practice 5: Ensuring safety and the procedure for citizens to follow in the event of fires in buildings', htmlFile: require('@/assets/practice/Practical_2.html') },
+    { id: '6', title: 'Practice 6: Ensuring the safety of passenger transportation services on public transport and the procedure for passengers to follow in the event of dangerous incidents', htmlFile: require('@/assets/practice/Practical_3.html') },
+    { id: '7', title: 'Practice 7: Conditions requiring first aid. Respiratory and circulatory arrest, measures to revive the body', htmlFile: require('@/assets/practice/Practical_4.html') },
+    { id: '8', title: 'Practice 8: First aid for electric shock, lightning, flame burns, frostbite, drowning', htmlFile: require('@/assets/practice/Practical_5.html') },
+    { id: '9', title: 'Practice 9: First aid for wounds, external bleeding, bone fractures', htmlFile: require('@/assets/practice/Practical_6.html') },
 
 ];
 
