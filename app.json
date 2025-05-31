@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "HLS_beta",
+    "name": "HLS",
     "slug": "HLS_beta",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/Pokecut_1743240403662.jpg",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/Pokecut_1743240403662.jpg",
         "backgroundColor": "#ffffff"
       },
       "package": "com.anonymous.HLS_beta"

@@ -5,7 +5,6 @@ export default function Index() {
     const { width, height } = useWindowDimensions();
     const isDesktop = width > 768;
     const isWeb = Platform.OS === 'web';
-
     const menuWidth = isDesktop ? '30%' : '100%';
 
     const backgroundImageSource = isWeb
