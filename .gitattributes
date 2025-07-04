@@ -1,0 +1,1 @@
+my_app_v1.0.apk filter=lfs diff=lfs merge=lfs -text
